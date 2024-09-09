@@ -28,7 +28,7 @@ Welcome to the Chatbot GUI project! This project is a simple yet functional chat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Chatbot-GUI.git
+   git clone https://github.com/mdriyadkhan585/Chatbot-GUI.git
    cd Chatbot-GUI
    ```
 
