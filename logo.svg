@@ -1,0 +1,19 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" stroke="black" stroke-width="5" fill="#4CAF50"/>
+
+  <!-- Chat Bubble -->
+  <path d="M50 50 Q70 20 100 20 Q130 20 150 50 Q170 80 150 120 Q130 160 100 160 Q70 160 50 120 Q30 80 50 50 Z"
+        fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+
+  <!-- Chat Bubble Tail -->
+  <path d="M80 120 L60 140 L70 120 Z" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+
+  <!-- Chatbot Face -->
+  <circle cx="80" cy="70" r="10" fill="#000000"/>
+  <circle cx="120" cy="70" r="10" fill="#000000"/>
+  <path d="M80 90 Q100 110 120 90" stroke="#000000" stroke-width="5" fill="none"/>
+
+  <!-- Chatbot Text -->
+  <text x="100" y="130" font-family="Arial, sans-serif" font-size="20" fill="#000000" text-anchor="middle">Chatbot</text>
+</svg>
